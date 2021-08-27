@@ -1,0 +1,40 @@
+body {
+  background-color: blue;
+  height: 500px;
+  width: 500px;
+  margin: 0;
+  }
+
+header{
+  color:cornsilk;
+  background-color:#421212;
+  height: 100px;
+  padding: 20px;
+
+}
+
+p {
+  color:chartreuse;  
+}
+
+#encabezado {
+  color:cyan;
+}
+
+#prb1 {
+  color:palevioletred;
+}
+
+#prb3 {
+  color:purple;
+}
+
+#medellin {
+  color:blue;
+}
+
+.parrafo-rojo-verde {
+  color: crimson;
+  background-color: greenyellow;
+  border: 10px solid red;
+}
